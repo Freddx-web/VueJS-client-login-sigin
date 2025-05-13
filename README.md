@@ -1,3 +1,15 @@
+<p align="center">
+  <div align="center">
+  
+  <img width="80" height="80" src="https://img.icons8.com/fluency/88/vuejs.png" alt="vuejs"/>
+  
+    
+  </div>
+  <br>
+  <em>Login template with Vue.jss</em>
+  <br>
+</p>
+
 ## App Vue.JS 
 
 **You are looking at the now inactive repository for Vue 2. The actively maintained repository for the latest version of Vue is [vuejs/core](https://github.com/vuejs/core).**
