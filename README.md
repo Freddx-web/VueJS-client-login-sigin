@@ -1,12 +1,12 @@
 <p align="center">
   <div align="center">
   <a href="#">
-    <img src="https://img.icons8.com/color/90/null/css.png"/>
+    <img src="./public/icons8-css-96.png">
   </a>
-  <img width="80" height="80" src="https://img.icons8.com/fluency/88/vuejs.png" alt="vue.js"/>
+  <img src="./public/icons8-vuejs-240.png" alt="vue.js"/>
   
   <a href="#">
-    <img src="https://img.icons8.com/color/90/null/html.png"/>
+    <img src="./public/icons8-html-96.png">
   </a>
     
   </div>
