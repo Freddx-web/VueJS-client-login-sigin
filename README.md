@@ -1,12 +1,17 @@
 <p align="center">
   <div align="center">
+  <a href="#">
+    <img src="https://img.icons8.com/color/90/null/css.png"/>
+  </a>
+  <img width="80" height="80" src="https://img.icons8.com/fluency/88/vuejs.png" alt="vue.js"/>
   
-  <img width="80" height="80" src="https://img.icons8.com/fluency/88/vuejs.png" alt="vuejs"/>
-  
+  <a href="#">
+    <img src="https://img.icons8.com/color/90/null/html.png"/>
+  </a>
     
   </div>
   <br>
-  <em>Login template with Vue.jss</em>
+  <em>Login template with Vue.js - Javascript </em>
   <br>
 </p>
 
