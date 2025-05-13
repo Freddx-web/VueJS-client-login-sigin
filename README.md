@@ -15,13 +15,48 @@
   <br>
 </p>
 
+---
+
+## Introduction
+
+Vue (pronounced `/vjuː/`, like view) is a **progressive framework** for building user interfaces. It is designed from the ground up to be incrementally adoptable, and can easily scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only, and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications.
+installation
 ## App Vue.JS 
 
-**You are looking at the now inactive repository for Vue 2. The actively maintained repository for the latest version of Vue is [vuejs/core](https://github.com/vuejs/core).**
+**Basic authentication template (Login and Registration) developed with Vue.js 3 and JavaScript, ready to integrate into your projects. [vuejs/core](https://github.com/vuejs/core).**
 
-Vue has reached End of Life on December 31st, 2023. It no longer receives new features, updates, or fixes. However, it is still available on all existing distribution channels (CDNs, package managers, Github, etc).
+Features
+✨ Responsive Login and Registration interface
 
-If you are starting a new project, please start with the latest version of Vue (3.x). We also strongly recommend current Vue 2 users to upgrade ([guide](https://v3-migration.vuejs.org/)), but we also acknowledge that not all users have the bandwidth or incentive to do so. If you have to stay on Vue 2 but also have compliance or security requirements about unmaintained software, check out [Vue 2 NES](https://www.herodevs.com/support/nes-vue?utm_source=vuejs-github&utm_medium=vue2-readme).
+🔒 Basic form validation
+
+🎨 Clean and modern design
+
+⚡ Single Page Application (SPA) with Vue Router
+
+🛠 Easy to customize and extend
+
+Demo
+View live demo (link to a demo if available)
+
+### Setting Up a installation Project
+
+Install the Angular CLI globally:
+
+Install the Angular CLI globally:
+```
+git clone https://github.com/tu-usuario/tu-repositorio.git
+```
+Place it in the cmd project path
+Install dependencies:
+```
+npm install 
+```
+
+Start the development server:
+```
+npm start
+```
 
 <p align="center">
   <a href="https://circleci.com/gh/vuejs/vue/tree/dev"><img src="https://img.shields.io/circleci/project/github/vuejs/vue/dev.svg?sanitize=true" alt="Build Status"></a>
@@ -33,11 +68,6 @@ If you are starting a new project, please start with the latest version of Vue (
 </p>
 
 
----
-
-## Introduction
-
-Vue (pronounced `/vjuː/`, like view) is a **progressive framework** for building user interfaces. It is designed from the ground up to be incrementally adoptable, and can easily scale between a library and a framework depending on different use cases. It consists of an approachable core library that focuses on the view layer only, and an ecosystem of supporting libraries that helps you tackle complexity in large Single-Page Applications.
 
 #### Browser Compatibility
 
